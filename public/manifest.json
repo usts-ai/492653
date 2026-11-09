@@ -1,0 +1,9 @@
+{
+  "short_name": "Nexora",
+  "name": "Nexora — Migration Drupal & base de données",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#007BFF",
+  "background_color": "#F4FBFF"
+}
